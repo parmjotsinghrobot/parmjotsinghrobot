@@ -2,4 +2,4 @@
 
 [parmjotsinghrobot.github.io](https://parmjotsinghrobot.github.io "parmjotsinghrobot.github.io")
 
- - Co-Maintainer for the `auto-cpufreq` package on the AUR
+ - Co-maintainer for the `auto-cpufreq` package on the AUR
