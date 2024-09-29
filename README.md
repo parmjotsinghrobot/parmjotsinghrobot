@@ -8,3 +8,6 @@
 
 #### Contact
  - `parmjotsinghrobot` (duh) on Telegram.
+
+
+![](https://komarev.com/ghpvc/?username=parmjotsinghrobot&style=flat-square&color=grey&label=funny+number&abbreviated=true)
