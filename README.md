@@ -6,8 +6,8 @@
  - Co-maintainer for the `auto-cpufreq` package on the AUR
  - Maintainer for the `way-shell` and `way-shell-git` packages on the AUR
 
-#### Contact
- - `parmjotsinghrobot` (duh) on Telegram.
-
+#### other links
+ - `parmjotsinghrobot` on Telegram (somewhat inactive).
+ - [my gravatar](https://gravatar.com/parmjotsinghrobot)
 
 ![](https://komarev.com/ghpvc/?username=parmjotsinghrobot&style=flat-square&color=grey&label=funny+number&abbreviated=true)
