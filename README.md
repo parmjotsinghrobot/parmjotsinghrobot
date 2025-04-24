@@ -4,7 +4,6 @@
 [parmjotsinghrobot.github.io](https://parmjotsinghrobot.github.io "parmjotsinghrobot.github.io")
 
  - Co-maintainer for the `auto-cpufreq` package on the AUR
- - Maintainer for the `way-shell` and `way-shell-git` packages on the AUR
 
 #### other links
  - `parmjotsinghrobot` on Telegram (somewhat inactive).
