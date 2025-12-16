@@ -1,5 +1,5 @@
 # welp.
-**2nd year Computer Systems Engineering student at the University of Auckland**
+**3rd year Computer Systems Engineering student at the University of Auckland**
 
 [parmjotsinghrobot.github.io](https://parmjotsinghrobot.github.io "parmjotsinghrobot.github.io")
 
